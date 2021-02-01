@@ -6,7 +6,6 @@ version: IN PROGRESS
 license: CC BY-SA 4.0
 
 output: [pdf, html, epub]
-output.proofread.html: une_histoire_pour_enfants.proof.html
 ---
 
 
